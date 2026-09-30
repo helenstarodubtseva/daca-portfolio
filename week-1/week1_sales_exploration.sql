@@ -75,9 +75,9 @@ SELECT * FROM sales ORDER BY total_price ASC LIMIT 10;
 -- DISTINCT: Näitab kõiki erinevaid müügikanaleid 
 SELECT DISTINCT channel FROM sales;
 
--- Kontroll küs 10 lk 27 COUNT + DISTINCT: Loendab pood-kanali tellimused ja unikaalsed kliendid
+-- Kontroll küs 10 lk 27 COUNT + DISTINCT: Loendab online-kanali tellimused ja unikaalsed kliendid
 SELECT  COUNT(*) AS tellimuste_arv,  COUNT(DISTINCT customer_id) AS unikaalsete_klientide_arv FROM sales WHERE channel = 'pood';
---Tulemus pood kanal: tellimusi: 10 030 unikaalseid kliente: 2 287
+-- TULEMUS: pood kanal: tellimusi 10 030, unikaalseid kliente 2 287
 
 -- BETWEEN: Näitab müüke, mille summa on 100–200 eurot (BETWEEN 100 AND 200 tähendab praegu lihtsalt: 100 ja 200 vahel)
 SELECT * FROM sales WHERE total_price BETWEEN 100 AND 200;
@@ -92,6 +92,9 @@ SELECT * FROM customers WHERE last_name LIKE 'T%';
 SELECT * FROM sales WHERE store_location = 'Tallinn'  OR store_location = 'Tartu';
 
 -- BETWEEN + AND: Näitab 2024. aasta I kvartali müüke summaga üle 100 €
+SELECT * FROM sales WHERE sale_date BETWEEN '2024-01-01' AND '2024-03-31'  AND total_price > 100;
+
+-- BETWEEN + AND: Näitab 2024. aasta I kvartali müüke, mille summa on üle 100 €
 SELECT * FROM sales WHERE sale_date BETWEEN '2024-01-01' AND '2024-03-31'  AND total_price > 100;
 
 
@@ -134,3 +137,10 @@ SELECT sale_id, customer_id, total_price FROM sales WHERE total_price > 500 ORDE
 SELECT sale_id, sale_date, total_price FROM sales WHERE sale_date BETWEEN '2024-01-01' AND '2024-03-31' ORDER BY sale_date;
 
 SELECT sale_id, customer_id, total_price FROM sales WHERE customer_id IS NULL;
+
+-- 3B: Loendab kõik sales tabeli read
+SELECT COUNT(*) AS kokku FROM sales;
+
+-- 3B: Loendab erinevad sale_id väärtused
+SELECT COUNT(DISTINCT sale_id) AS unikaalseid FROM sales;
+-- TULEMUS: 15 234 rida, 10 118 unikaalset sale_id väärtust, vahe 5 116

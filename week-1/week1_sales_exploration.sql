@@ -120,6 +120,9 @@ SELECT COUNT(*) AS korduvate_emailide_arv FROM (  SELECT email  FROM customers  
 -- SALES ÜLDPILT: Loendab read, kliendiga tellimused, puuduvad kliendid ja unikaalsed kliendid
 SELECT COUNT(*) AS ridade_arv,  COUNT(customer_id) AS klientidega,  COUNT(*) - COUNT(customer_id) AS puudub_klient,  COUNT(DISTINCT customer_id) AS unikaalseid_kliente FROM sales;
 -- TULEMUS: 15 234 rida, 13 747 kliendiga tellimust, 1 487 puuduvat klienti ja 2 558 unikaalset klienti
+-- 3A PÄRING 3: Juhendis küsitakse sales tabeli unikaalseid status väärtusi.
+-- Minu sales tabelis status veerg puudub, seega seda päringut käivitada ei saa.
+
 
 -- TOOMASE TELLIMUSED: Näitab kliendi ID, kuupäeva ja summa, uuemad müügid enne
 SELECT customer_id, sale_date, total_price FROM sales ORDER BY sale_date DESC LIMIT 20;
@@ -144,3 +147,4 @@ SELECT COUNT(*) AS kokku FROM sales;
 -- 3B: Loendab erinevad sale_id väärtused
 SELECT COUNT(DISTINCT sale_id) AS unikaalseid FROM sales;
 -- TULEMUS: 15 234 rida, 10 118 unikaalset sale_id väärtust, vahe 5 116
+

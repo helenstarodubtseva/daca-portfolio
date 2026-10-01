@@ -125,3 +125,10 @@ Praktilise töö käigus õppisin ka, et juhendis toodud näited ei pruugi alati
 
 Samuti õppisin, et andmetest leitud ebatavalise väärtuse põhjust ei saa ilma lisainfota oletada. SQL aitab probleemi leida, kuid selle põhjus võib vajada eraldi kontrollimist.
 
+
+## Ekraanipilt
+
+SQL-päringu käivitamine Supabase'is:
+
+![Week 1 SQL päring Supabase'is](Kuvatõmmis%202026-10-01%20132233.png)
+

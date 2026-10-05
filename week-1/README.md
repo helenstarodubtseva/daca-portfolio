@@ -132,3 +132,12 @@ SQL-päringu käivitamine Supabase'is:
 
 ![Week 1 SQL päring Supabase'is](Kuvatõmmis%202026-10-01%20132233.png)
 
+## Meeskonnatöö
+
+Week 1 meeskonnatöös olin Sales Data Explorer. Uurisin `sales` tabelit ning analüüsisin müügiandmeid SQL-päringutega.
+
+Minu meeskonnatöö kokkuvõte:
+[Week 1 – Data Landscape](team/week1_data_landscape.md)
+
+Täielik meeskonnatöö asub ühises GitHubi repos `Ivo-Murel/TOODE`.
+

@@ -25,7 +25,7 @@ Week 2 iseseisva töö käigus harjutasin UrbanStyle andmebaasis SQL-i abil andm
 - 128 erinevat mitte-NULL e-posti aadressi esineb rohkem kui ühe korra;
 - `products` tabelis ei leitud `product_id` duplikaate;
 - `products` tabelis ei leitud NULL-, 0- ega negatiivse `retail_price` väärtusega tooteid;
-- linnanimedel oli 54 erinevat algset kirjapilti, mis standardiseerusid 12 linnaks.
+- linnanimedel oli 54 erinevat algset kirjapilti, mis standardiseerusid 12 linnaks.Näiteks sama linn võis olla kirjutatud mitmel erineval viisil (suured/väikesed tähed, tühikud jne), mistõttu SQL luges need alguses erinevateks väärtusteks.
 
 ## SQL fail
 

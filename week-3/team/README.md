@@ -28,4 +28,14 @@ Uurin müümata ja populaarseid tooteid, tootekategooriaid ning inventuuri. Tule
 
 ## Tulemused ja kokkuvõte
 
-*Lisatakse pärast meeskonnatöö valmimist.*
+### Minu tulemused – Products + Inventory (Roll C)
+
+- **Müümata tooteid:** 12
+- **TOP 1 toode müügitulu järgi:** Õhuline sünteetiline sporditossud – 27 347,04 €
+- **Suurima müügituluga kategooria:** jalanõud – 774 034,75 €
+- **Väikseima müügituluga kategooria:** lasteriided – 305 844,45 €
+- **Inventuur:** 0 kirjet; laoseisu analüüsi ei saanud teha.
+
+**Järeldus:** Soovitan kontrollida müümata toodete nõudlust ja hindu ning jälgida populaarsete jalanõude saadavust. Inventuuriandmed tuleb täiendada, et hinnata juurdetellimise vajadust.
+
+**Meeskonnatöö SQL-päringud ja ekraanipildid:** [TOODE ühine GitHub](https://github.com/Ivo-Murel/TOODE/tree/main/Week-3)

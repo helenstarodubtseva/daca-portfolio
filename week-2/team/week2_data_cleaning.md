@@ -1,26 +1,29 @@
-Week 2 – Meeskonnatöö: SQL-andmete puhastamine
+# Week 2 – Meeskonnatöö: SQL-andmete puhastamine
 
-Meeskond: Toode
-Liikmed: Ivo Murel, Helen Starodubtseva, Kertu Läänemägi
+**Meeskond:** Toode
 
-Töö eesmärk
+**Liikmed:** Ivo Murel, Helen Starodubtseva, Kertu Läänemägi
+
+## Töö eesmärk
 
 UrbanStyle'i andmebaasi andmekvaliteedi kontrollimine ja puhastamine SQL-i abil.
 
-Tööjaotus
+## Tööjaotus
 
-Sales – Ivo: müügiandmete kvaliteedikontroll.
+| Tabel | Vastutaja | Ülesanne |
+|---|---|---|
+| `sales` | Ivo | Müügiandmete kvaliteedikontroll |
+| `customers` | Helen | Kliendiandmete kvaliteedikontroll ja puhastamine |
+| `products` | Kertu | Tooteandmete kvaliteedikontroll |
 
-Customers – Helen: kliendiandmete kvaliteedikontroll ja puhastamine.
+## Meeskonnatöö materjalid
 
-Products – Kertu: tooteandmete kvaliteedikontroll.
+SQL-päringud, ühine andmekvaliteedi koondraport ja ekraanipildid asuvad meeskonna GitHubi hoidlas.
 
-Meeskonnatöö materjalid
+**Materjal:** TOODE – Week 2 grupitöö
 
-SQL-päringud, ühine andmekvaliteedi koondraport ja ekraanipildid asuvad meeskonna GitHubi hoidlas:
+## Kokkuvõte
 
-TOODE – Week 2 grupitöö
+Meeskonnatöö käigus tuvastasime andmekvaliteedi probleeme, kontrollisime puuduvaid ja korduvaid väärtusi ning koostasime soovitused andmete kvaliteedi parandamiseks.
 
-Kokkuvõte
-
-Meeskonnatöö käigus tuvastasime andmekvaliteedi probleeme, kontrollisime puuduvaid ja korduvaid väärtusi ning koostasime soovitused andmete kvaliteedi parandamiseks. Puhastamisel kasutasime testtabeleid, et säilitada originaalandmed muutmata.
+Puhastamisel kasutasime testtabeleid, et säilitada originaalandmed muutmata.

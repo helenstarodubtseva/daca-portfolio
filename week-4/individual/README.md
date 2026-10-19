@@ -18,18 +18,18 @@ Salvestatud päringute kogum: `W4_SQL_harjutused`.
 
 | Harjutus | Ülesanne | Staatus |
 |---|---|---|
-| 1A | Müük kuude kaupa | ✅ Tehtud |
-| 1B | Müük linnade kaupa | ✅ Tehtud |
-| 1C | Toodete arv kategooriates | ✅ Tehtud |
-| 2A | Kliendid, kelle ostusumma ületab 500 € | ✅ Tehtud |
-| 2B | Kategooriate müügianalüüs `HAVING` abil | ✅ Tehtud |
-| 2C | `WHERE` ja `HAVING` koos | ✅ Tehtud |
-| 3A | Igakuise müügitrendi analüüs `LAG()` abil | ✅ Tehtud |
-| 3B | Klientide segmenteerimine CTE abil | ✅ Tehtud |
-| 3C | TOP 3 toodet igas kategoorias | ✅ Tehtud |
-| CEO raport | Linnade müügitulemuste analüüs | ✅ Tehtud |
-| Lisaülesanne 1 | Linnade osakaal kogukäibest | ✅ Tehtud |
-| Lisaülesanne 2 | Viimase kuu käibe võrdlus | ✅ Tehtud |
+| 1A | Müük kuude kaupa |  Tehtud |
+| 1B | Müük linnade kaupa |  Tehtud |
+| 1C | Toodete arv kategooriates |  Tehtud |
+| 2A | Kliendid, kelle ostusumma ületab 500 € |  Tehtud |
+| 2B | Kategooriate müügianalüüs `HAVING` abil |  Tehtud |
+| 2C | `WHERE` ja `HAVING` koos |  Tehtud |
+| 3A | Igakuise müügitrendi analüüs `LAG()` abil |  Tehtud |
+| 3B | Klientide segmenteerimine CTE abil |  Tehtud |
+| 3C | TOP 3 toodet igas kategoorias |  Tehtud |
+| CEO raport | Linnade müügitulemuste analüüs |  Tehtud |
+| Lisaülesanne 1 | Linnade osakaal kogukäibest |  Tehtud |
+| Lisaülesanne 2 | Viimase kuu käibe võrdlus |  Tehtud |
 
 ---
 

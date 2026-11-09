@@ -109,7 +109,8 @@ Dashboard'is kasutasime ja kontrollisime:
 
 ### Dashboard'i ekraanipilt
 
-![UrbanStyle CEO dashboard](dashboard_030.png)
+<img width="1526" height="961" alt="image" src="https://github.com/user-attachments/assets/55a3f2f5-0e08-40b7-8959-55e2902c9d46" />
+
 
 ### Olulisemad näitajad
 

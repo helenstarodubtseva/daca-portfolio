@@ -1,34 +1,36 @@
 # Nädal 6 – Individuaalne töö
 
-## Andmete visualiseerimine ja andmelugude jutustamine
-
-**DACA andmeanalüütiku programm | UrbanStyle**
-
----
+**Teema:** Andmete visualiseerimine ja andmelugude jutustamine  
+**Programm:** DACA andmeanalüütiku programm  
+**Projekt:** UrbanStyle
 
 ## 1. Töö eesmärk
 
-Kuuenda nädala eesmärk oli õppida, kuidas esitada andmeid selgelt, tuua esile olulisi tulemusi ja jutustada andmete põhjal arusaadavat lugu.
+Kuuenda nädala eesmärk oli õppida, kuidas esitada andmeid selgelt, tuua esile olulisi tulemusi ja koostada andmete põhjal arusaadav lugu.
 
-Peamised teemad:
-- Annotatsioonide kasutamine diagrammidel
+Keskendusin kolmele teemale:
+
+- Annotatsioonid ja visualiseeringute täiustamine
 - Data storytelling ehk andmelugude jutustamine
 - Dashboard'i kohandamine erinevatele sihtrühmadele
 
+Lisaks töötasin 030 Power BI praktilise ülesandega, mille eesmärk oli professionaalse dashboard'i viimistlemine.
+
 ## 2. Annotatsioonid
 
-Tutvusin erinevate annotatsioonitüüpidega:
+Õppisin kasutama erinevaid annotatsioonitüüpe:
+
 - Pealkirjad ja alapealkirjad
 - Teljemärgised ja andmesildid
 - Viitejooned
 - Nooled ja selgitavad märkused
 - Värvikodeerimine
 
-Harjutustes kasutasin UrbanStyle'i näidisandmeid, et muuta diagrammid arusaadavamaks ja rõhutada olulisi tulemusi.
+Annotatsioonid aitavad juhtida tähelepanu olulistele tulemustele ja selgitada, mida graafikul näidatud andmed tähendavad.
 
 **Õppetund:** hea diagramm peab oma põhisõnumi kiiresti edasi andma.
 
-## 3. Data storytelling
+## 3. Andmelugude jutustamine
 
 Õppisin koostama andmelugu kolmeosalise struktuuri abil:
 
@@ -36,190 +38,138 @@ Harjutustes kasutasin UrbanStyle'i näidisandmeid, et muuta diagrammid arusaadav
 2. **Keskosa:** andmed ja olulisemad leiud
 3. **Lõpp:** järeldused ja soovitatavad tegevused
 
-Kasutasin ka „Ja mis siis?” meetodit, mis aitab selgitada andmete tähendust.
+Kasutasin ka „Ja mis siis?” meetodit.
 
-**Õppetund:** numbrid muutuvad kasulikuks siis, kui nende põhjal saab teha järeldusi ja otsuseid.
+Iga olulise tulemuse juures tuleb küsida:
 
-## 4. Publikupõhine dashboard'i disain
+- Mida see number näitab?
+- Miks see oluline on?
+- Mida peaksime selle põhjal tegema?
 
-Analüüsisin, millist infot vajavad erinevad kasutajad.
+**Õppetund:** numbrid muutuvad kasulikuks siis, kui nende põhjal saab teha põhjendatud järeldusi.
 
-| Kasutaja | Oluline info |
+## 4. Dashboard vastavalt sihtrühmale
+
+Erinevad kasutajad vajavad erinevat infot.
+
+| Sihtrühm | Oluline info |
 |---|---|
-| Tegevjuht | Müügitulemused ja kasv |
-| IT-juht | Süsteemide töökindlus |
-| Turundusjuht | Kampaaniate tulemuslikkus |
+| Tegevjuht | Müügitulemused, kasv ja KPI-d |
+| Turundusjuht | Kampaaniad ja konversioonid |
+| Operatsioonijuht | Laoseis, tellimused ja probleemid |
+| IT-juht | Süsteemide töökindlus ja vead |
 
-**Õppetund:** sama dashboard ei sobi alati kõigile. Info tuleb valida vastavalt kasutaja eesmärgile.
+Õppisin, et dashboard'i kujundamisel tuleb arvestada kasutaja eesmärgi ja vajadustega.
 
 ## 5. Investori dashboard'i kavandamine
 
-Kavandasin ühe ekraaniga dashboard'i, mille abil saaks UrbanStyle'i tulemusi investoritele 90 sekundiga tutvustada.
+Kavandasin UrbanStyle'i tulemuste esitamise investorile nii, et kõige olulisem info oleks kiiresti mõistetav.
 
-Kasutasin varasema Power BI analüüsi tulemusi:
+Varasemast analüüsist kasutasin järgmisi näitajaid:
 
-- **Kogumüügitulu:** 2,91 miljonit eurot
-- **Tallinna osakaal müügitulust:** 37,5%
-- **Tähelepanek:** Tallinna kaupluses on võrreldud kauplustest väikseim laoseis
+- Kogumüügitulu ligikaudu 2,91 miljonit eurot
+- Tallinna osakaal müügitulust ligikaudu 37,5%
+- Müügitulemuste võrdlus kaupluste ja perioodide lõikes
 
-**Soovitus:** analüüsida kaupluste nõudlust ja hinnata varude jaotamise parandamise võimalusi.
+Oluline oli tuua välja mitte ainult tulemused, vaid ka nende tähendus ja võimalikud soovitused.
 
-## 6. Kasutatud materjalid ja töövahendid
+## 6. Praktiline töö 030 – Power BI viimistlemine ja avaldamine
 
-- DACA 6. nädala iseseisva õppe töövihik
-- 6. nädala õppematerjalid ja slaidid
-- Varasem UrbanStyle'i Power BI dashboard
-- GitHub töö dokumenteerimiseks
+**Ülesanne:** Professionaalne dashboard
 
-Individuaalne töö koosnes teooriast, kirjalikest harjutustest ja dashboard'i kavandamisest. Uut Power BI aruannet ei olnud vaja luua.
+Töötasin UrbanStyle'i tegevjuhi Power BI dashboard'iga, kasutades kaasõppija Kertu jagatud tööfaili lähtepunktina.
 
-## 7. Kokkuvõte
+Vaatasin üle ja kontrollisin dashboard'i vastavust 030 ülesande nõuetele.
 
-Kuuendal nädalal õppisin, et andmete visualiseerimise eesmärk ei ole ainult numbrite näitamine.
+### Dashboard'i sisu
 
-Hea dashboard peab olema:
-- **Selge** – põhisõnum on kiiresti mõistetav
-- **Sihtrühmale sobiv** – näitab kasutajale vajalikku infot
-- **Praktiline** – aitab teha andmetel põhinevaid otsuseid
+Dashboard sisaldab järgmisi elemente:
 
-Kõige olulisem õppetund oli, et andmeanalüütik peab oskama lisaks andmete analüüsimisele ka tulemusi arusaadavalt selgitada.
+- Kogu müügitulu KPI
+- Keskmise ostukorvi väärtuse KPI (AOV)
+- Tehingute arvu KPI
+- Aastase kasvu näitaja (YoY Growth)
+- Müügitrendide joondiagramm
+- TOP 10 toodete tulpdiagramm
+- Müügi jaotus asukohtade kaupa
+- Revenue Category rõngasdiagramm
+- Toodete müügitabel koos andmeribadega
+- Kuupäeva- ja asukohafiltrid
 
-## 7. Hea dashboard'i ülesehitus – 6. nädala konspekt
+### Visualiseeringute täiustamine
 
-### 7.1. Annotatsioonid – mida graafikule lisada?
+Dashboard'is kasutasime ja kontrollisime:
 
-Annotatsioonid aitavad muuta diagrammi arusaadavaks ja juhtida tähelepanu kõige olulisemale.
+- Annotatsioone müügitippude selgitamiseks
+- Viitejooni müügitulemuste võrdlemiseks
+- KPI-de tingimuslikku vormindamist
+- DAX-mõõdikuid ja arvutuslikke veerge
+- Ristfiltreerimist ja interaktsioone
+- Mobiilivaadet
 
-| Annotatsioon | Eesmärk | Millal kasutada? |
-|---|---|---|
-| **Pealkiri (Title)** | Ütleb, mida diagramm näitab | Alati |
-| **Alapealkiri (Subtitle)** | Toob välja peamise järelduse | Kui pealkiri üksi ei ütle piisavalt |
-| **Teljemärgised (Axis labels)** | Selgitavad X- ja Y-telje tähendust | Alati, kui diagrammil on teljed |
-| **Andmesildid (Data labels)** | Näitavad konkreetseid väärtusi | Oluliste andmepunktide juures |
-| **Viitejooned (Reference lines)** | Näitavad eesmärki, keskmist või piiri | Kui on vaja võrrelda |
-| **Nooled ja callout'id** | Juhivad tähelepanu tipule või erandile | Oluliste punktide rõhutamiseks |
-| **Värvikodeerimine (Color coding)** | Eristab kategooriaid ja rõhutab muutusi | Kui värvil on selge tähendus |
+### Dashboard'i ekraanipilt
 
-### 7.2. Annotatsioonide tähtsuse järjekord
+![UrbanStyle CEO dashboard](dashboard_030.png)
 
-**ALATI VAJALIK**
-- Selge pealkiri – mida graafik näitab?
-- Teljemärgised – mida tähendavad X- ja Y-telg?
-- Legend – kui diagrammil on mitu andmeseeriat.
+### Olulisemad näitajad
 
-**SOOVITUSLIK**
-- Alapealkiri – mis on peamine järeldus?
-- Viitejoon – kuidas tulemus suhestub eesmärgi või keskmisega?
-- Värvikodeerimine – mida on vaja esile tõsta?
+| Näitaja | Tulemus |
+|---|---:|
+| Kogu müügitulu | 2,91 mln € |
+| Keskmine ostukorv | 287,53 € |
+| Tehingute arv | 10 118 |
+| Tallinna osakaal müügitulust | 37,56% |
+| Online-müügi osakaal | 34,55% |
 
-**OLULISTE PUNKTIDE JUURES**
-- Andmesilt – milline on täpne väärtus?
-- Nool või callout – millele peab tähelepanu pöörama?
-- Tekstiblokk – mida tähendab keerulisem muster?
+Aastase kasvu näitaja tõlgendamisel tuleb arvestada, et hilisemate aastate andmed ei ole täielikud.
 
-**Põhimõte:** kõiki annotatsioone ei pea korraga kasutama. Liigne märgistamine muudab diagrammi raskesti loetavaks.
+### Mida õppisin?
 
-### 7.3. Andmeloo ülesehitus (Data Storytelling)
+Sain parema ülevaate sellest, kuidas professionaalne Power BI dashboard on üles ehitatud.
 
-Knaflic'u raamistik:
+Õppisin pöörama tähelepanu nii visuaalsele kvaliteedile kui ka mõõdikute, filtrite ja interaktsioonide toimimisele.
 
-**KONTEKST → ANDMED → NARRATIIV**
+## 7. Hea dashboard'i põhimõtted
 
-- **Kontekst:** miks peaks vaatajat see teema huvitama?
-- **Andmed:** mida analüüs näitas?
-- **Narratiiv:** mida tulemused tähendavad ja mida tuleks teha?
+### Selge visuaalne hierarhia
 
-Kolme vaatuse struktuur:
+Kõige olulisemad KPI-d ja tulemused peavad olema kiiresti nähtavad.
 
-1. **Algus (Setup)** – olukord ja probleem.
-2. **Keskosa (Conflict + Data)** – olulised leiud ja võimalikud vastuolud.
-3. **Lõpp (Resolution)** – järeldus ja soovitatav tegevus.
+### Annotatsioonide kasutamine
 
-### 7.4. „Ja mis siis?” test
+Selgitused ja viitejooned aitavad andmeid mõista, kuid liiga palju annotatsioone muudab diagrammi raskesti loetavaks.
 
-Iga olulise numbri puhul tuleb küsida:
+### Progressive Disclosure
 
-1. Mida see number näitab?
-2. Miks see oluline on?
-3. Mida peaksime selle põhjal tegema?
+Infot saab esitada kolmel tasemel:
 
-Kui näitaja ei aita lugu mõista ega otsust teha, tasub kaaluda selle eemaldamist.
+1. **Ülevaade:** peamised KPI-d ja järeldused
+2. **Detailid:** trendid, diagrammid ja selgitused
+3. **Toorandmed:** filtreeritavad tabelid ja täpsem analüüs
 
-### 7.5. Dashboard vastavalt sihtrühmale
+### Andmeloo põhimõte
 
-| Sihtrühm | Mida vajab? | Peamine küsimus |
-|---|---|---|
-| **Tegevjuht (CEO)** | 3–5 KPI-d, trendid, järeldused | Kas ettevõte kasvab ja miks? |
-| **IT-juht** | Süsteemide töökindlus, vead, tehnilised detailid | Kas süsteemid töötavad? |
-| **Turundusjuht** | Kampaaniad, ROI, konversioonid | Milline kampaania töötab? |
-| **Operatsioonijuht** | Laoseis, tellimused, probleemid, tegevused | Mida on vaja kohe teha? |
+**Kontekst → Andmed → Järeldused → Tegevused**
 
-### 7.6. Juhtide dashboard'i reeglid
+Hea dashboard aitab mõista, mida tulemused tähendavad ja milliseid otsuseid nende põhjal teha.
 
-**Näita:**
-- 3–5 peamist KPI-d koos trendiga.
-- Üks selge põhijäreldus.
-- Konkreetsed soovitused.
-- Kuni 3–4 olulist diagrammi ühel lehel.
+## 8. Kasutatud materjalid ja töövahendid
 
-**Väldi:**
-- Pikki toorandmete tabeleid.
-- SQL-päringuid ja API-koode.
-- Liiga palju diagramme.
-- Ebaolulisi tehnilisi detaile.
+- DACA 6. nädala õppematerjalid ja töövihik
+- 030 Power BI viimistlemise ja avaldamise juhend
+- Power BI Desktop
+- DAX
+- UrbanStyle'i müügiandmed
+- GitHub
 
-### 7.7. Progressive Disclosure – info järkjärguline avamine
+## 9. Kokkuvõte
 
-Dashboard peab võimaldama liikuda üldpildist detailideni.
+Kuuendal nädalal õppisin ühendama andmete visualiseerimist, Power BI tehnilisi võimalusi ja andmelugude jutustamist.
 
-**Tase 1 – Ülevaade (30 sekundit)**
-- 3 KPI-d ja peamine järeldus.
+030 praktiline töö aitas mul paremini mõista professionaalse dashboard'i ülesehitust ja kontrollimist.
 
-**Tase 2 – Detailid (2 minutit)**
-- Trendidiagrammid ja annotatsioonid.
+Kõige olulisem õppetund oli, et dashboard peab olema selge, sihtrühmale sobiv ja toetama andmepõhiseid otsuseid.
 
-**Tase 3 – Toorandmed (5 minutit)**
-- Filtreeritav tabel ja võimalus andmeid eksportida.
+**Hea dashboard vastab kolmele küsimusele:**
 
-### 7.8. Hea dashboard'i lõplik kontroll
-
-- [ ] Pealkiri ütleb selgelt, mida diagramm näitab.
-- [ ] Alapealkiri annab edasi põhijärelduse.
-- [ ] Teljed ja mõõtühikud on arusaadavad.
-- [ ] Olulised väärtused on esile toodud.
-- [ ] Viitejooni kasutatakse siis, kui võrdlus on vajalik.
-- [ ] Annotatsioone ei ole liiga palju.
-- [ ] Dashboard vastab konkreetse sihtrühma vajadustele.
-- [ ] Kõige olulisemad KPI-d on kohe nähtavad.
-- [ ] Andmetest tekib loogiline lugu.
-- [ ] Järeldused on andmetega põhjendatud.
-- [ ] Kasutaja saab aru, mida edasi teha.
-
-**KÕIGE OLULISEM ÕPPETUND:**
-
-Dashboard ei ole valmis ainult siis, kui diagrammid on ilusad.
-
-Dashboard on valmis siis, kui kasutaja saab kiiresti aru:
-- **MIS toimub?**
-- **MIKS see oluline on?**
-- **MIDA edasi teha?**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**MIS toimub? MIKS see oluline on? MIDA edasi teha?**

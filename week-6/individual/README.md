@@ -112,6 +112,11 @@ Dashboard'is kasutasime ja kontrollisime:
 <img width="1526" height="961" alt="image" src="https://github.com/user-attachments/assets/55a3f2f5-0e08-40b7-8959-55e2902c9d46" />
 
 
+### Dashboard'i PDF
+
+[Vaata 030 Power BI dashboard'i PDF-i](dashboard_030.pdf)
+
+
 ### Olulisemad näitajad
 
 | Näitaja | Tulemus |

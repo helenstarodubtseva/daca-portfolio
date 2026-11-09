@@ -2,48 +2,61 @@
 
 ## Mida ma õppisin
 
-Kuuendal nädalal õppisin, kuidas muuta andmete visualiseeringud selgemaks, arusaadavamaks ja sihtrühmale sobivaks.
+Kuuendal nädalal õppisin, kuidas muuta andmete visualiseeringud selgemaks, arusaadavamaks ja erinevatele sihtrühmadele sobivaks.
 
-Tutvusin annotatsioonide kasutamise, andmelugude jutustamise (data storytelling) ning dashboard'i kujundamise põhimõtetega.
+Harjutasin annotatsioonide, viitejoonte, KPI-de ja andmelugude kasutamist ning täiendasin oma Power BI oskusi.
 
-Õppisin, et hea dashboard ei näita ainult numbreid, vaid aitab mõista tulemuste tähendust ja toetab otsuste tegemist.
+Kõige olulisem oli mõista, et dashboard ei pea ainult numbreid näitama, vaid aitama ka tulemusi tõlgendada ja otsuseid teha.
 
 ## Nädala põhiteemad
 
-- Diagrammide pealkirjad ja alapealkirjad
-- Teljemärgised, andmesildid ja legendid
-- Viitejooned, selgitavad märkused ja värvikodeerimine
-- Andmeloo ülesehitus: kontekst, andmed ja järeldused
-- „Ja mis siis?” meetod tulemuste tõlgendamiseks
+- Andmete visualiseerimine ja andmelugude jutustamine
+- Diagrammide pealkirjad, annotatsioonid ja viitejooned
+- KPI-de esiletõstmine ja tingimuslik vormindamine
+- DAX-mõõdikud ja arvutuslikud veerud
+- Interaktiivsed filtrid ja ristfiltreerimine
 - Dashboard'i kohandamine erinevatele sihtrühmadele
-- Oluliste KPI-de esiletõstmine
-- Info järkjärguline avamine (progressive disclosure)
-- Power BI visualiseeringute täiustamine ja avaldamine
+- Power BI mobiilivaade ja aruannete avaldamine
+- Tulemuste dokumenteerimine GitHubis
 
-## Nädala praktiline töö
+## Nädala praktilised tööd
 
-Iseseisvas töös läbisin visualiseerimise, andmelugude jutustamise ja sihtrühmapõhise disaini harjutused.
+### Individuaalne töö
 
-Kasutasin varasema UrbanStyle'i analüüsi tulemusi investori dashboard'i kavandamisel.
+Läbisin 6. nädala visualiseerimise ja andmelugude jutustamise õppematerjalid ning praktilised harjutused.
 
-Nädala grupitöö keskendub olemasoleva Power BI dashboard'i täiustamisele, andmeloo loomisele ja tulemuste esitlemisele.
+030 Power BI ülesandes töötasin UrbanStyle'i tegevjuhi dashboard'iga, kontrollisin selle visualiseeringuid, DAX-mõõdikuid, interaktiivsust ja mobiilivaadet.
+
+### Grupitöö – UrbanStyle
+
+Osalesin meeskonna TOODE grupitöös, kus analüüsisime erinevate kaupluste müügitulemusi.
+
+Minu ülesanne oli Tartu kaupluse müügianalüüs Power BI-s.
+
+Koostasime andmeloo, tõime välja olulisemad tulemused ja esitlesime oma järeldusi.
 
 ## Olulisemad õppetunnid
 
-1. Diagrammil peab olema selge pealkiri ja vajaduse korral põhijäreldust selgitav alapealkiri.
-2. Annotatsioonid aitavad olulisi tulemusi esile tuua, kuid neid ei tohi olla liiga palju.
-3. Dashboard'i sisu peab lähtuma kasutaja vajadustest.
-4. Olulised KPI-d ja järeldused peavad olema kiiresti leitavad.
-5. Andmete põhjal tehtud soovitused peavad olema põhjendatud.
-
-## Kokkuvõte
-
-Kuuendal nädalal õppisin ühendama andmete visualiseerimise ja andmeloo jutustamise põhimõtteid.
-
-Kõige olulisem õppetund oli see, et hea dashboard peab vastama kolmele küsimusele: **mis toimub, miks see oluline on ja mida edasi teha?**
+1. Selge pealkiri ja annotatsioonid muudavad graafiku arusaadavamaks.
+2. KPI-d aitavad olulist infot kiiresti märgata.
+3. DAX võimaldab luua uusi mõõdikuid ja analüüse.
+4. Dashboard peab vastama kasutaja vajadustele.
+5. Andmete puudulikkust tuleb järelduste tegemisel arvestada.
+6. Hea andmelugu ühendab numbrid, selgitused ja soovitused.
 
 ## Kasutatud töövahendid
 
-- Power BI
-- DACA õppematerjalid ja töövihik
+- Power BI Desktop
+- DAX
+- UrbanStyle'i müügiandmed
+- DACA õppematerjalid
 - GitHub
+- Google Slides
+
+## Kokkuvõte
+
+Kuues nädal aitas mul paremini mõista, kuidas muuta andmeanalüüsi tulemused visuaalselt selgeks ja praktiliselt kasulikuks.
+
+Kõige olulisem õppetund oli, et hea dashboard peab vastama kolmele küsimusele:
+
+**Mis toimub? Miks see oluline on? Mida edasi teha?**

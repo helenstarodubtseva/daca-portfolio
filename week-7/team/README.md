@@ -3,9 +3,15 @@
 
 ## Meeskond TOODE
 
+
+
 **Liikmed:** Ivo, Helen ja Kertu
 
 **Teema:** UrbanStyle'i kliendiandmete analüüs ja RFM-kliendisegmenteerimine.
+
+## Grupitöö esitlus
+
+**Viide:** [Nädal 7 – UrbanStyle'i RFM-kliendisegmenteerimise grupitöö esitlus (Google Slides)](https://docs.google.com/presentation/d/1vbaf-APMytQiKg2gAz_WpOAedij0oYG_KPxh-iSFeSM/edit)
 
 ## Meeskonnatöö eesmärk
 

@@ -1,29 +1,24 @@
-# Week 9 – Career Preparation
+# Nädal 9 – Karjääri ettevalmistus
 
-## Overview
+## Nädala ülevaade
 
-Week 9 focuses on understanding the employer's perspective,
-evaluating data analyst competencies, preparing a professional
-portfolio, and developing job interview readiness.
+Üheksanda nädala eesmärk on mõista tööandja ootusi
+andmeanalüütikule, hinnata oma oskusi ja portfooliot
+ning valmistuda töövestluseks ja lõppesitluseks.
 
-## Main Topics
+## Peamised teemad
 
-- Employer expectations and technical competencies
-- Portfolio evaluation and presentation
-- CV, LinkedIn and interview preparation
-- Communicating business value through data analysis
-- Recruitment criteria and candidate evaluation
-- Preparation for the Week 10 final presentation
+- Tööandja ootused andmeanalüütikule
+- Tehniliste oskuste hindamine
+- Portfoolio analüüs ja täiendamine
+- CV, LinkedIn ja töövestluseks valmistumine
+- Analüüsitulemuste ärilise väärtuse selgitamine
+- Värbamisjuhendi koostamine
+- 10. nädala lõppesitluseks valmistumine
 
-## Repository Structure
+## Kaustade struktuur
 
-- [Individual Work](./individual/) – Individual assignments,
-  portfolio evaluation, reflections and knowledge check.
-- [Team Work](./team/) – Recruitment guide, technical interviewer
-  perspective and team contribution.
-
-## Learning Objective
-
-To understand how to demonstrate technical skills, communicate
-analytical results and present professional competencies from
-an employer's perspective.
+- [Iseseisev töö](./individual/) – ülesanded, portfoolio
+  analüüs, refleksioonid ja teadmiste kontroll.
+- [Grupitöö](./team/) – meeskonna TOODE värbamisjuhend
+  ja minu panus tehnilise intervjueerijana.
